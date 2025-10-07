@@ -20,9 +20,9 @@
 
 🌍[EcoDrop: Smart E-Waste Management System](https://uxplorers.danzign.com) - Human Computer Interaction
 
-🚗GoRent Car Rental Management System - System Analysis & Design
+📊[Balancing Inflation & Labor Quality](https://github.com/imn353/MDITxDOSM) - Power BI
 
-📊Balancing Inflation & Labor Quality - Power BI
+🚗GoRent Car Rental Management System - System Analysis & Design
 
 🐈Leaping Kitten 2D Games - C++
 
@@ -32,11 +32,11 @@
 <table>
   <tr>
     <td align="center" width="200">
-        <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/de0822a2-15fc-482b-9d59-38842a1eccf7" />
+        <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/aa8a79ea-3e94-4c36-94fb-aa25ff6cb6c1" />
         <br><b>RunCloud Certified: Fundamental of Cloud Computing</b>
     </td>
     <td align="center" width="200">
-        <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/42f05349-a2c6-4aeb-92a5-dea735a80376" />
+        <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/76d0d3ca-03b5-4e77-9f2d-2916f25f0998" />
       <br><b>Skills2Work: Data Center Foundation Training</b>
     </td>
   
