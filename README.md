@@ -33,13 +33,16 @@
   <tr>
     <td align="center" width="200">
         <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/aa8a79ea-3e94-4c36-94fb-aa25ff6cb6c1" />
-        <br><b>RunCloud Certified: Fundamental of Cloud Computing</b>
+      <a href="https://github.com/wildanmazani/certificates/blob/main/Fundamental%20of%20Cloud%20Computing%20Runcloud.pdf">
+        RunCloud Certified: Fundamental of Cloud Computing
+      </a>
     </td>
     <td align="center" width="200">
-        <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/76d0d3ca-03b5-4e77-9f2d-2916f25f0998" />
-      <br><b>[Skills2Work: Data Center Foundation Training](https://github.com/wildanmazani/certificates/blob/main/Skills2Work%20Certificate-30.pdf)</b>
+        <img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/9daafc94-f903-42b6-b8e3-3872c8b53102" />
+      <a href="https://wildanmazani/certificates/blob/main/Skills2Work%20Certificate-30.pdf">
+        Skills2Work: Data Center Foundation Training
+      </a>
     </td>
-  
   </tr>
   
 </table>
