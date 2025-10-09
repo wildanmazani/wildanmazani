@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="200">
         <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/76d0d3ca-03b5-4e77-9f2d-2916f25f0998" />
-      <br><b>Skills2Work: Data Center Foundation Training</b>
+      <br><b>[Skills2Work: Data Center Foundation Training](https://github.com/wildanmazani/certificates/blob/main/Skills2Work%20Certificate-30.pdf)</b>
     </td>
   
   </tr>
