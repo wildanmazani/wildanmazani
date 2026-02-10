@@ -64,20 +64,3 @@
 
 
 
-
-
-
-###
-## 📊 GitHub Stats
-![Stats card](https://github-readme-stats.vercel.app/api?username=wildanmazani&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmazani&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=wildanmazani&theme=radical)
-
----
-
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=wildanmazani&theme=radical)
-
-
-
