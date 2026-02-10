@@ -18,7 +18,7 @@
 
 ## Recent Projects
 
-🌍[EcoDrop: Smart E-Waste Management System] - Human Computer Interaction, WordPress
+🌍[EcoDrop: Smart E-Waste Management System](https://uxplorers.danzign.com) - Human Computer Interaction, WordPress
 
 📊[Balancing Inflation & Labor Quality](https://github.com/imn353/MDITxDOSM) - Competition, Power BI
 
