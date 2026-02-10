@@ -18,7 +18,7 @@
 
 ## Recent Projects
 
-🌍[EcoDrop: Smart E-Waste Management System](https://uxplorers.danzign.com) - Human Computer Interaction
+🌍[EcoDrop: Smart E-Waste Management System] - Human Computer Interaction
 
 📊[Balancing Inflation & Labor Quality](https://github.com/imn353/MDITxDOSM) - Power BI
 
@@ -26,7 +26,7 @@
 
 🐈Leaping Kitten 2D Games - C++
 
-🚗HASTA Vehicle Rental Management System() - Laravel,JSS,HTML,PHP
+🚗HASTA Vehicle Rental Management System(https://github.com/wildanmazani/DaTeam---Wildan) - Laravel,JSS,HTML,PHP
 
 
 
