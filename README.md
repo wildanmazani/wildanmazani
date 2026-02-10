@@ -13,20 +13,20 @@
 ## 🚀 Ongoing Projects
 
 ###
-🌍 [Sintok Leisure Empire Website](amirulguider.danzign.com) – WordPress 
+🌍 Sintok Leisure Empire Website – WordPress 
 ###
 
 ## Recent Projects
 
-🌍[EcoDrop: Smart E-Waste Management System] - Human Computer Interaction
+🌍[EcoDrop: Smart E-Waste Management System] - Human Computer Interaction, WordPress
 
-📊[Balancing Inflation & Labor Quality](https://github.com/imn353/MDITxDOSM) - Power BI
+📊[Balancing Inflation & Labor Quality](https://github.com/imn353/MDITxDOSM) - Competition, Power BI
 
-🚗GoRent Car Rental Management System - System Analysis & Design
+🚗GoRent Car Rental Management System - System Analysis & Design, DFD, ERD
 
 🐈Leaping Kitten 2D Games - C++
 
-🚗HASTA Vehicle Rental Management System(https://github.com/wildanmazani/DaTeam---Wildan) - Laravel,JSS,HTML,PHP
+🚗[HASTA Vehicle Rental Management System](https://github.com/wildanmazani/DaTeam---Wildan) - Software Engineering, System Development & Technology, Database Laravel,JSS,HTML,PHP,SQL
 
 
 
